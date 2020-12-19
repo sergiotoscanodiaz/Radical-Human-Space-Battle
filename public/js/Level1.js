@@ -16,7 +16,7 @@ class Level1 extends Phaser.Scene {
 
     create() {
 
-        this.ship; //raton cliente
+        this.ship; 
 
         
         var self = this;
